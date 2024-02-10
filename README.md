@@ -1,10 +1,7 @@
+![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Austin Obonyo</h1>
 <h3 align="center">A passionate Full-Stack Developer based in Nairobi, Kenya 📍</h3>
-<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="problem-solving">
-<div style="display: grid; grid-template-columns: 2fr 1fr;">
-        <img style="float: right; width: 400px;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="problem-solving">
-    </div>
-    
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🔭 I’m currently working on [flexipay](flexipay.vercel.app)
 
