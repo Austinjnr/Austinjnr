@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I'm a tech-savvy music enthusiast who finds inspiration in self-help books, enjoys the witty banter of Joe Rogan's podcast.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
