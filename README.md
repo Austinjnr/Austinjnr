@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://rxresu.me/austinobonyo/austinobonyo](https://rxresu.me/austinobonyo/austinobonyo)
 
-- ⚡ Fun fact **I'm a tech-savvy music enthusiast who finds inspiration in self-help books, enjoys the witty banter of Joe Rogan's podcast.**
+- ⚡ Fun fact **I'm a tech-savvy music enthusiast who finds inspiration in self-help books and enjoys the witty banter of Joe Rogan's podcast.**
 
 <p align="left">
 </p>
