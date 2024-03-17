@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the React and Rails frameworks**
 
-- 👨‍💻 All of my projects are available at [https://austinobonyo-portfolio.vercel.app/](https://austinobonyo-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://austinobonyo-portfolio.vercel.app/](https://austinobonyo.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@austinobonyo](https://medium.com/@austinobonyo)
 
