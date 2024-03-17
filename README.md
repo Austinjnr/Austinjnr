@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the React and Rails frameworks**
 
-- 👨‍💻 All of my projects are available at [https://austinobonyo-portfolio.vercel.app/](https://austinobonyo.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://austinobonyo.vercel.app/](https://austinobonyo.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@austinobonyo](https://medium.com/@austinobonyo)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **austinobonyo@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/austinobonyo/austinobonyo](https://rxresu.me/austinobonyo/austinobonyo)
+- 📄 Know about my experiences [https://rxresu.me/austinobonyo/austinobonyo-cv](https://rxresu.me/austinobonyo/austinobonyo-cv)
 
 - ⚡ Fun fact **I'm a tech-savvy music enthusiast who finds inspiration in self-help books and enjoys the witty banter of Joe Rogan's podcast.**
 
