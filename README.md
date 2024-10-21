@@ -1,6 +1,6 @@
 ![MasterHead](https://career.wordapp.com/wp-content/uploads/2017/08/jobbanner_front-end_developer.jpg)
 <h1 align="center">Hi 👋, I'm Austin Obonyo</h1>
-<h3 align="center">A passionate Full-Stack Developer based in Nairobi, Kenya 📍</h3>
+<h3 align="center">A passionate Frontend Developer based in Nairobi, Kenya 📍</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🔭 I’m currently working on [flexipay](flexipay.vercel.app)
