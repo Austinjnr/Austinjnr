@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [flexipay](flexipay.vercel.app)
 
-- 🌱 I’m currently learning **the React and Rails frameworks**
+- 🌱 I’m currently learning **the React frameworks**
 
 - 👨‍💻 All of my projects are available at [https://austinobonyo.vercel.app/](https://austinobonyo.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@austinobonyo](https://medium.com/@austinobonyo)
 
-- 💬 Ask me about **JavaScript and Ruby**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **austinobonyo@gmail.com**
 
