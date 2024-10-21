@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HeaTYonbtJcf_3Y0cP2BRLC7xSOMSSKCJw&s)
+![MasterHead](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg)
 <h1 align="center">Hi 👋, I'm Austin Obonyo</h1>
 <h3 align="center">A passionate Full-Stack Developer based in Nairobi, Kenya 📍</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
