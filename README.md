@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Grocery-Managment-System](https://grocery-managment-system.vercel.app/)
 
-- 🤝 I’m looking for help with [I'm currently working on enhancing my personal portfolio site and would appreciate any tips, feedback, or collaboration on best practices for frontend development, responsive design, and performance optimization.](https://austinobonyo-portfolio.vercel.app/)
+- 🤝 I’m looking for help with [I'm working on enhancing my personal portfolio sites and would appreciate any tips, feedback, or collaboration on best practices for frontend development, responsive design, and performance optimization.](https://austinobonyo-portfolio.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://austinobonyo-portfolio.vercel.app/](https://austinobonyo-portfolio.vercel.app/)
 
