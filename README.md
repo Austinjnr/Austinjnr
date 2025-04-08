@@ -1,5 +1,5 @@
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFAJIAOXXBoxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYWwZQaHAAY-/0/1744138512214?e=1749686400&v=beta&t=tR__EnfFwAy2DCLOu7Juq-XhyCYtzSCE5r7PRZM4wQo)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGxuJFx_e6VFA/profile-displaybackgroundimage-shrink_350_1400/B4DZYWyUDzHAAY-/0/1744139013370?e=1749686400&v=beta&t=9AMcUslUCD2QiIPIpp32bgb9o9ckIs8Q4ZvR2cgAvGU)
 <h1 align="center">Hi 👋, I'm Austin Obonyo</h1>
 <h3 align="center">Front-End Web Developer | React Enthusiast | Based in Nairobi</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
