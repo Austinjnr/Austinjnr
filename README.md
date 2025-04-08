@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My portfolio](https://austinobonyo-portfolio.vercel.app/)
 
-- 🌱 I’m currently learning **Exploring ES6 features. Diving deeper into React concepts.**
+- 🌱 I’m currently learning **ES6 features. Diving deeper into React concepts.**
 
 - 👯 I’m looking to collaborate on [Grocery-Managment-System](https://grocery-managment-system.vercel.app/)
 
