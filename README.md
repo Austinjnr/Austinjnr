@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFAJIAOXXBoxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYWwZQaHAAY-/0/1744138512214?e=1749686400&v=beta&t=tR__EnfFwAy2DCLOu7Juq-XhyCYtzSCE5r7PRZM4wQo)
 <h1 align="center">Hi 👋, I'm Austin Obonyo</h1>
